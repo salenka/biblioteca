@@ -1,0 +1,21 @@
+{
+  "name": "library-services-webpage",
+  "version": "1.0.0",
+  "description": "A web page for library-related services including catalog card generators and a Cutter code generator.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "library",
+    "catalog",
+    "Cutter code",
+    "webpage"
+  ],
+  "author": "Sandra Reginade Alenca",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
